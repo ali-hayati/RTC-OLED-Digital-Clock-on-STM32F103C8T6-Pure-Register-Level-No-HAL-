@@ -1,0 +1,29 @@
+# STM32CubeIDE workspace
+.metadata/
+
+# Eclipse settings
+.settings/
+
+# Proteus backups
+Project Backups/
+
+# Proteus workspace
+*.workspace
+
+# Build output
+Debug/
+Release/
+
+# Compiler generated files
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.su
+*.bin
+*.hex
+
+# Temporary files
+*.tmp
+*.bakgi
