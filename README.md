@@ -107,8 +107,8 @@ On power-up, the OLED displays a live date and time (initial test value: `2024-0
 
 - RM0008 — STM32F101/102/103/105/107 Reference Manual (RCC, RTC, GPIO, I2C, EXTI chapters)
 - SSD1306 Datasheet (Solomon Systech)
-- Register-by-register details: [`docs/register_map.md`](docs/register_map.md)
-- Frequency and timing calculations: [`docs/timing_analysis.md`](docs/timing_analysis.md)
+- Register-by-register details: [`docs/register_map.md`](Docs/register_map.md)
+- Frequency and timing calculations: [`docs/timing_analysis.md`](Docs/timing_analysis.md)
 
 ## License
 
